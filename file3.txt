@@ -1,4 +1,6 @@
 file3.txt
 Editing this file on Github.
 I see the changes and updated the file locally after that.
+
 Edited in GitHub UI on feature2 branch.
+In main branch, editing in GitHub to create merge conflict.
