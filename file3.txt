@@ -4,5 +4,7 @@ I see the changes and updated the file locally after that.
 
 Edited in GitHub UI on feature2 branch.
 In main branch, editing in GitHub to create merge conflict.
+
 Blah blah blue.
 In local main branch, editing file3.
+In local on feature2 branch adding to file3.
