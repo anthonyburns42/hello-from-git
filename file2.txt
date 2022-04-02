@@ -1,2 +1,4 @@
 We are learning git diff command.
 This file is added to test the command.
+
+There's a git ignore now ignoring file4. Will it work?
