@@ -4,3 +4,4 @@ This file is added to test the command.
 There's a git ignore now ignoring file4. Will it work?
 
 Adding a line that will stay.
+Adding another line, this will revert away.
